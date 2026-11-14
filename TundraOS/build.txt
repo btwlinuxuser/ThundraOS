@@ -1,2 +1,2 @@
-sudo mkarchiso -v -w ~/временная_рабочая_папка -o ~/место_для_исо ./папка с дистро
+sudo mkarchiso -v -w ~/temp_folder -o ~/iso_path ./distro_path
 
